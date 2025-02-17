@@ -3,7 +3,7 @@ package mines;
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
-import javax.swing.JLabel;
+//import javax.swing.JLabel;
 
 // Source: http://zetcode.com/tutorials/javagamestutorial/minesweeper/
 
